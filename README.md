@@ -1,2 +1,2 @@
-# itm-aws-python-24
-Labs do curso de Python
+# BRANCH DE HOMOLOGACAO
+Teste de exemplo de branch
